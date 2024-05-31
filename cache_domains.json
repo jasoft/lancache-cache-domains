@@ -121,6 +121,12 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "melvor",
+			"description": "CDN for melvor",
+			"domain_files": ["melvor.txt"]
 		}
+
 	]
 }
